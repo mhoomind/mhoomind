@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web-developer<br>👯 I’m looking to collaborate on a database<br>🤝 I’m looking for help with new trends or technique to develop the web :><br>🌱 I’m currently learning flutter<br>💬 Ask me about my cutie cat<br>⚡ Fun fact I'm butterfingers
+🔭 I’m currently working on Business Analyst<br>👯 I’m looking to collaborate on a database<br>🤝 I’m looking for help with new trends or technique to develop the web :><br>🌱 I’m currently learning flutter<br>💬 Ask me about my cutie cat<br>⚡ Fun fact I'm butterfingers
 
 
 ## 🌐 Socials:
